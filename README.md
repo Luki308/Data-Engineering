@@ -17,7 +17,7 @@ This repository presents a collection of projects focused on data engineering �
 **Outcome:**
 A set of lab exercises covering core relational database concepts — data modelling, DDL/DML operations, and transaction management — with selected tasks extended to demonstrate Python database integration via `pymssql`.
 
-➡️ **Repository:** *(link to repo)*
+➡️ **Repository:** *link to repo*
 
 ---
 
@@ -29,7 +29,7 @@ How to transform the public datasets about European countries into a single anal
 **Outcome:**
 A time-aware data warehouse backed by a galaxy schema and SSIS ETL pipelines, enabling Power BI reports to combine country-level indicators over time accurately.
 
-➡️ **Repository:** *(link to repo)*
+➡️ **Repository:** [Hurtownie](https://github.com/Luki308/Hurtownie)
 
 ---
 
@@ -51,5 +51,5 @@ An end-to-end Lambda Architecture platform combining Kafka/NiFi streaming with S
 These projects were developed as part of my university coursework during the following classes:
 
 * SQL Tasks & Python DB Connection - Databases
-* Country Analysis Tool - Data Warehousing
+* Country Analysis Tool - Data Warehouses & BI Solutions
 * CryptoStock Predictions - Big Data Analytics
