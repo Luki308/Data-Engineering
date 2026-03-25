@@ -50,6 +50,7 @@ An end-to-end Lambda Architecture platform combining Kafka/NiFi streaming with S
 ➡️ **Repository:** [CryptoStockPrediction](https://github.com/szuvarska/CryptoStockPrediction)
 
 <img width="1151" height="621" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/da662424-df5c-4b03-a43f-b157fa6e9954" />
+
 ---
 
 ## Context
