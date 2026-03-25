@@ -31,7 +31,9 @@ A time-aware data warehouse backed by a galaxy schema and SSIS ETL pipelines, en
 
 ➡️ **Repository:** [Hurtownie](https://github.com/Luki308/Hurtownie)
 
-<img width="1661" height="920" alt="Schemat_hurtowni_km2" src="https://github.com/user-attachments/assets/6b1a43df-d4bc-44b5-a8b0-7936b662a740" />
+<img width="1176" height="791" alt="image" src="https://github.com/user-attachments/assets/5937c7e1-695f-431f-b0a5-d0a623b4ddf4" />
+
+<img width="698" height="330" alt="ETL_flow" src="https://github.com/user-attachments/assets/4c9e5eb9-717d-4a3b-a86d-ba9f0f2dc404" />
 
 https://github.com/user-attachments/assets/c6ac9b41-ced3-4756-9baa-b86c3fadcb41
 
