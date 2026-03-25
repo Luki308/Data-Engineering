@@ -29,7 +29,7 @@ How to transform the public datasets about European countries into a single anal
 **Outcome:**
 A time-aware data warehouse backed by a galaxy schema and SSIS ETL pipelines, enabling Power BI reports to combine country-level indicators over time accurately.
 
-➡️ **Repository:** [Hurtownie](https://github.com/Luki308/Hurtownie)
+➡️ **Repository:** [Data Warehouse](https://github.com/Luki308/Data-Warehouse)
 
 <img width="1176" height="791" alt="image" src="https://github.com/user-attachments/assets/5937c7e1-695f-431f-b0a5-d0a623b4ddf4" />
 
