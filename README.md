@@ -1,6 +1,6 @@
 # Data Engineering & Databases
 
-This repository presents a collection of projects focused on data engineering — from relational databases and ETL pipelines to large-scale distributed systems. It acts as a **navigation hub** that explains each project and links to its dedicated implementation repository.
+This repository presents a collection of projects focused on data engineering - from relational databases and ETL pipelines to large-scale distributed systems. It acts as a **navigation hub** that explains each project and links to its dedicated implementation repository.
 
 ---
 
@@ -15,7 +15,7 @@ This repository presents a collection of projects focused on data engineering �
 ### SQL Tasks & Python DB Connection (SQL + Python)
 
 **Outcome:**
-A set of lab exercises covering core relational database concepts — data modelling, DDL/DML operations, and transaction management — with selected tasks extended to demonstrate Python database integration via `pymssql`.
+A set of lab exercises covering core relational database concepts - data modelling, DDL/DML operations, and transaction management - with selected tasks extended to demonstrate Python database integration via `pymssql`.
 
 ➡️ **Repository:** *link to repo*
 
